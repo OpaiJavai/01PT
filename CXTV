@@ -167,12 +167,30 @@
 <referer>http://cxtv.biz/</referer>
 </item>
 <item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TV Record[/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png</thumbnail>                      
+<sportsdevil>http://cxtv.biz/tvonline/canal/tvrecorde.html</sportsdevil>
+<referer>http://cxtv.biz/</referer>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] Afro Music[/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>https://mir-s3-cdn-cf.behance.net/projects/202/1a62e626926751.55756a4b190d7.png</thumbnail>                      
+<sportsdevil>http://cxtv.biz/tvonline/canal/afromusic.html</sportsdevil>
+<referer>http://cxtv.biz/</referer>
+</item>
+
+<item>
 <title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] X[/COLOR][/B]</title>
 <fanart></fanart>                        
 <thumbnail></thumbnail>                      
 <sportsdevil></sportsdevil>
 <referer>http://cxtv.biz/</referer>
 </item>
+
+
+
 
 
 
