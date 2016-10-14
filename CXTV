@@ -182,13 +182,21 @@
 </item>
 
 <item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] Almada TV[/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>http://www.tvtuga.com/wp-content/uploads/2010/04/tnlogo_tv-almada.jpg</thumbnail>                      
+<sportsdevil>http://www.tvalmada.pt/webtv/index_almadatv.php</sportsdevil>
+<referer>http://www.tvalmada.pt/</referer>
+</item>
+
+
+<item>
 <title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] X[/COLOR][/B]</title>
 <fanart></fanart>                        
 <thumbnail></thumbnail>                      
 <sportsdevil></sportsdevil>
 <referer>http://cxtv.biz/</referer>
 </item>
-
 
 
 
