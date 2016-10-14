@@ -202,7 +202,13 @@
 <referer>http://cxtv.biz/</referer>
 </item>
 
-
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] EURONEWS[/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/9c99242cc2ae381d1dbaad1a330861a8.jpg</thumbnail>                      
+<sportsdevil>http://pt.euronews.com/live</sportsdevil>
+<referer>http://pt.euronews.com/</referer>
+</item>
 
 <item>
 <title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] X[/COLOR][/B]</title>
