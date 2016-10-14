@@ -29,9 +29,9 @@
 <item>
 <title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TVI 24[/COLOR][/B]</title>
 <fanart></fanart>                        
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>                      
-<sportsdevil>http://cxtv.biz/tvonline/canal/tvi-2.html</sportsdevil>
-<referer>http://cxtv.biz/</referer>
+<thumbnail>http://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Tvi24_2012.png/240px-Tvi24_2012.png</thumbnail>                      
+<sportsdevil>http://www.cxtv.com.br/tv-ao-vivo/tvi24</sportsdevil>
+<referer>http://www.cxtv.com.br/</referer>
 </item>
 <item>
 <title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TVI REALITY[/COLOR][/B]</title>
@@ -46,6 +46,13 @@
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>                      
 <sportsdevil>http://cxtv.biz/tvonline/canal/cmtv.html</sportsdevil>
 <referer>http://cxtv.biz/</referer>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] Economico TV[/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>https://jorgesalvador.files.wordpress.com/2011/05/economico-tv.png</thumbnail>                      
+<sportsdevil>http://www.cxtv.com.br/tv-ao-vivo/etv-economico-tv</sportsdevil>
+<referer>http://www.cxtv.com.br/</referer>
 </item>
 <item>
 <title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] SPORTTV 1[/COLOR][/B]</title>
@@ -181,13 +188,6 @@
 <referer>http://cxtv.biz/</referer>
 </item>
 
-<item>
-<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] Almada TV[/COLOR][/B]</title>
-<fanart></fanart>                        
-<thumbnail>http://www.tvtuga.com/wp-content/uploads/2010/04/tnlogo_tv-almada.jpg</thumbnail>                      
-<sportsdevil>http://www.tvalmada.pt/webtv/index_almadatv.php</sportsdevil>
-<referer>http://www.tvalmada.pt/</referer>
-</item>
 
 
 <item>
