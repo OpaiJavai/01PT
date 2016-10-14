@@ -188,6 +188,13 @@
 <referer>http://cxtv.biz/</referer>
 </item>
 <item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] Versus[/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Versus_logo.svg/1082px-Versus_logo.svg.png</thumbnail>                      
+<sportsdevil>http://www.cxtv.com.br/tv-ao-vivo/versus-hd</sportsdevil>
+<referer>http://www.cxtv.com.br/</referer>
+</item>
+<item>
 <title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TV Record[/COLOR][/B]</title>
 <fanart></fanart>                        
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png</thumbnail>                      
@@ -202,13 +209,7 @@
 <referer>http://cxtv.biz/</referer>
 </item>
 
-<item>
-<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] EURONEWS[/COLOR][/B]</title>
-<fanart></fanart>                        
-<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/9c99242cc2ae381d1dbaad1a330861a8.jpg</thumbnail>                      
-<sportsdevil>http://pt.euronews.com/live</sportsdevil>
-<referer>http://pt.euronews.com/</referer>
-</item>
+
 
 <item>
 <title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] X[/COLOR][/B]</title>
