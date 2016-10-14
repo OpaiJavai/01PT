@@ -202,6 +202,41 @@
 <referer>http://www.cxtv.com.br/</referer>
 </item>
 <item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] RTP Memoria[/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c2/Logo_RTP_Mem%C3%B3ria.png</thumbnail>                      
+<sportsdevil>http://www.cxtv.com.br/tv-ao-vivo/rtp-memoria</sportsdevil>
+<referer>http://www.cxtv.com.br/</referer>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] RTP Africa[/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>https://cld.pt/dl/download/d4bb5818-da1f-4ad3-aaab-3b4e268e62f9/CyberIPTV/logos/operator/rtpaf.png</thumbnail>                      
+<sportsdevil>http://www.cxtv.com.br/tv-ao-vivo/rtp-africa</sportsdevil>
+<referer>http://www.cxtv.com.br/</referer>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] RTP Acores[/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/19/Logo_RTP_A%C3%A7ores.png</thumbnail>                      
+<sportsdevil>http://www.cxtv.com.br/tv-ao-vivo/rtp-acores</sportsdevil>
+<referer>http://www.cxtv.com.br/</referer>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TV Lisboa[/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>https://cld.pt/dl/download/3277a761-2142-4a02-939b-9610506249bf/tv%20lisboa.jpg</thumbnail>                      
+<sportsdevil>http://www.cxtv.com.br/tv-ao-vivo/tv-lisboa</sportsdevil>
+<referer>http://www.cxtv.com.br/</referer>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] Agueda TV[/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>http://agueda.isasmartcity.com/assets/assets/Uploads/Projects/LOGOS/ASC-projectos-logosAguedatv-1.png</thumbnail>                      
+<sportsdevil>http://www.cxtv.com.br/tv-ao-vivo/agueda-tv</sportsdevil>
+<referer>http://www.cxtv.com.br/</referer>
+</item>
+<item>
 <title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TV Record[/COLOR][/B]</title>
 <fanart></fanart>                        
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png</thumbnail>                      
@@ -215,7 +250,6 @@
 <sportsdevil>http://cxtv.biz/tvonline/canal/afromusic.html</sportsdevil>
 <referer>http://cxtv.biz/</referer>
 </item>
-
 
 
 <item>
