@@ -34,13 +34,6 @@
 <referer>http://www.cxtv.com.br/</referer>
 </item>
 <item>
-<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TVI REALITY[/COLOR][/B]</title>
-<fanart></fanart>                        
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png</thumbnail>                      
-<sportsdevil>http://cxtv.biz/tvonline/canal/tvireality.html</sportsdevil>
-<referer>http://cxtv.biz/</referer>
-</item>
-<item>
 <title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] CMTV[/COLOR][/B]</title>
 <fanart></fanart>                        
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>                      
@@ -53,6 +46,13 @@
 <thumbnail>https://jorgesalvador.files.wordpress.com/2011/05/economico-tv.png</thumbnail>                      
 <sportsdevil>http://www.cxtv.com.br/tv-ao-vivo/etv-economico-tv</sportsdevil>
 <referer>http://www.cxtv.com.br/</referer>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TVI REALITY[/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png</thumbnail>                      
+<sportsdevil>http://cxtv.biz/tvonline/canal/tvireality.html</sportsdevil>
+<referer>http://cxtv.biz/</referer>
 </item>
 <item>
 <title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] SPORTTV 1[/COLOR][/B]</title>
